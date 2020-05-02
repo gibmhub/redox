@@ -16,9 +16,9 @@ description: "GDG DevFest is a set of events all around the world"
 baseurl: "/redox"
 url: "https://gibmhub.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: " "
-googleAnalyticsSiteUrl: " "
-siteVerification: " "
+googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsSiteUrl: "gdg-x.github.io"
+siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "GDG Lviv"
